@@ -1,0 +1,4 @@
+1. page er moddehe sob page likhte hoy.
+2. nested route (create blog folder/ then create index js then it show)
+3. dynamic routes ()
+4. using link component, image component, head component for seo best,
