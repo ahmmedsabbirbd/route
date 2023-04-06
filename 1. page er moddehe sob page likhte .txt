@@ -1,4 +1,8 @@
 1. page er moddehe sob page likhte hoy.
 2. nested route (create blog folder/ then create index js then it show)
 3. dynamic routes ()
-4. using link component, image component, head component for seo best,
+4. using link component for navigate, image component for optimize image, head component for seo best,
+5. add tailwind css in my next js project
+6. daisyui (taiwind css components)
+7. data load jsonplaceholader
+8.  npm install axios install
